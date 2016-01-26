@@ -1,0 +1,4 @@
+name: TestPlugin
+version: 1
+author: Luca Archidiacono
+main: org.spigotmc.tutorial.Main
