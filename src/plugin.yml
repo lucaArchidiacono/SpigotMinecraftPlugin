@@ -2,3 +2,10 @@ name: TestPlugin
 version: 1
 author: Luca Archidiacono
 main: org.spigotmc.tutorial.Main
+commands:
+  dragon:
+    description: You always dreamed to see a dragon? Here is your chance.
+    usage: /dragon
+  itemstackupgrade:
+    description: Best weapons? Here we come...
+    usage: /itemstackupgrade
