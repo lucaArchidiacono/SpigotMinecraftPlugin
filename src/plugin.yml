@@ -6,6 +6,9 @@ commands:
   dragon:
     description: You always dreamed to see a dragon? Here is your chance.
     usage: /dragon
-  itemstackupgrade:
-    description: Best weapons? Here we come...
-    usage: /itemstackupgrade
+  swordandpotato:
+    description: Diamond Sword? Sorry for the long speech here is a potato.
+    usage: /swordandpotato
+  createmagicstick:
+      description: You wanna have the magic Stick from Gandalf! Here it is.
+      usage: /createmagicstick

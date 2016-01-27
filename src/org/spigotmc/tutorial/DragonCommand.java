@@ -16,12 +16,6 @@ public class DragonCommand implements CommandExecutor {
 
             player.getWorld().spawnEntity(player.getLocation(), EntityType.ENDER_DRAGON);
 
-//            ItemStack potato = new ItemStack(Material.BAKED_POTATO);
-//            ItemStack axe = new ItemStack(Material.DIAMOND_AXE);
-//            axe.setAmount(20);
-//            potato.setAmount(30);
-//            player.getInventory().addItem(potato, axe);
-
         }
 
         return true;

@@ -7,27 +7,18 @@ import org.bukkit.command.CommandSender;
 import org.bukkit.entity.Player;
 import org.bukkit.inventory.ItemStack;
 
-public class ItemStackUpgrade implements CommandExecutor {
+public class CreateMagicStick implements CommandExecutor {
 
     @Override
     public boolean onCommand(CommandSender sender, Command cmd, String label, String[] args) {
         if (sender instanceof Player) {
             Player player = (Player) sender;
 
-            ItemStack potato = new ItemStack(Material.BAKED_POTATO);
-            ItemStack diamondSword = new ItemStack(Material.DIAMOND_SWORD);
+            ItemStack magicStick = new ItemStack(Material.STICK, 1);
 
-            diamondSword.setAmount(7);
-            potato.setAmount(10);
-
-            player.getInventory().addItem(diamondSword, potato);
-
+            player.getInventory().addItem(magicStick);
         }
-
         return true;
     }
 
-
 }
-
-
