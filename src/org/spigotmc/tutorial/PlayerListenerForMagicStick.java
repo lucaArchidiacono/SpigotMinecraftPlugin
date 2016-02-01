@@ -12,6 +12,7 @@ import org.bukkit.event.Listener;
 import org.bukkit.event.block.Action;
 import org.bukkit.event.player.PlayerInteractEvent;
 import org.bukkit.event.player.PlayerJoinEvent;
+import org.bukkit.inventory.ItemStack;
 
 import java.util.Collections;
 import java.util.List;
@@ -61,6 +62,9 @@ public class PlayerListenerForMagicStick implements Listener {
                 for (Entity entity : entities) {
 
                     if(entity.getLocation().distanceSquared(player.getLocation()) > radiusSquared) continue; // All entities within a sphere
+
+
+
 
                     if(entity instanceof Player){
 
