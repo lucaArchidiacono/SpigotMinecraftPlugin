@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SpigotMinecraftPlugin:jar">
+    <output-path>$USER_HOME$/Desktop/MyAwesomeServer/plugins</output-path>
+    <root id="archive" name="SpigotMinecraftPlugin.jar">
+      <element id="module-output" name="SpigotMinecraftPlugin" />
+      <element id="dir-copy" path="$USER_HOME$/Desktop/BuildTools/Spigot/Spigot-API" />
+    </root>
+  </artifact>
+</component>

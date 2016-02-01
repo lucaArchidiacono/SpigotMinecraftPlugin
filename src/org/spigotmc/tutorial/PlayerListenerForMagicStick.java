@@ -63,9 +63,6 @@ public class PlayerListenerForMagicStick implements Listener {
 
                     if(entity.getLocation().distanceSquared(player.getLocation()) > radiusSquared) continue; // All entities within a sphere
 
-
-
-
                     if(entity instanceof Player){
 
                         player.sendMessage(ChatColor.RED + "players there. "+ ((Player) entity).getName());
