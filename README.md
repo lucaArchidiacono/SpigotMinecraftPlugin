@@ -37,17 +37,17 @@ From this point on you can start the server by double-clicking start_server.comm
 You will need to run the server once for it to generate some configuration files.
 After setting up the server, build the github-project to a .jar file and copy paste it into the "plugins" folder of your servers location.
 
-# :sos:Warning:sos:
+### :sos:Warning:sos:
 To stop the server, do not close the terminal/command prompt window. Instead, type 'stop' into the console. Closing the terminal window without stopping the server could lead to corruption of the save files.
 
-## Start Minecraft
+## How this Plugin Works
 Open the Minecraft Application and choose your localhost server.
+
 Add this commandline ```/createMagicStick```.
 
-# How this Plugin Works
-Once you add ```/createMagicStick``` into the Minecraft commandline, you'll get a stick which as magic power.
+Once you add the command, you'll get a stick which has magic power.
 
-The power of this stick is, that in a radius of 100 Blocks every teammate is throwing his item from his inventory to you.
+The power of this stick is, that in a radius of 100 blocks every teammate is throwing his item from his inventory to you.
 Those items which you get, will be removed from the inventory from your teammates and instead you will have it in your inventory.
 
 Very powerfull right?
