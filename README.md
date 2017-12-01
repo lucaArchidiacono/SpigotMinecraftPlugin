@@ -54,7 +54,11 @@ Very powerfull right?
 
 ## Helping
 The plugin is purely free to use, but any kind of Ether fund for the hard work will be appreciated.
-Here my adress:
+
+Here my address:
+
+<img src="etherQR.png" height="256" width="256">
+
 ```0x981740Bb869b1Fb93bDb766E13b34798E67d09B9```
 
 Thanks in advance.
