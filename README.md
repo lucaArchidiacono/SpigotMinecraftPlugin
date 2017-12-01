@@ -1,4 +1,4 @@
-# SpigotMinecraftPlugin:whale:
+# SpigotMinecraftPlugin-Steal-Items:whale:
 
 ## Setup
 For this plugin you need a local minecraftserver. I recommend to use Spigot as [localserver](https://getbukkit.org/download/spigot).
