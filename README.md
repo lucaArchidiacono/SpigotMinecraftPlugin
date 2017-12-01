@@ -51,3 +51,10 @@ The power of this stick is, that in a radius of 100 blocks every teammate is thr
 Those items which you get, will be removed from the inventory from your teammates and instead you will have it in your inventory.
 
 Very powerfull right?
+
+## Helping
+The plugin is purely free to use, but any kind of Ether fund for the hard work will be appreciated.
+Here my adress:
+```0x981740Bb869b1Fb93bDb766E13b34798E67d09B9```
+
+Thanks in advance.
