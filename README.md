@@ -57,8 +57,6 @@ The plugin is purely free to use, but any kind of Ether fund for the hard work w
 
 Here my address:
 
-<img src="etherQR.png" height="256" width="256">
-
-```0x981740Bb869b1Fb93bDb766E13b34798E67d09B9```
+```0x992a99EF34afeb14133006631b69095C2C87BF6f```
 
 Thanks in advance.
