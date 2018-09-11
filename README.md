@@ -1,4 +1,4 @@
-# SpigotMinecraftPlugin-Steal-Items:trollface:
+# SpigotMinecraftPlugin-Steal-Items
 
 ## Setup
 For this plugin you need a local minecraftserver. I recommend to use Spigot as [localserver](https://getbukkit.org/download/spigot).
